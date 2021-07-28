@@ -4,36 +4,11 @@
 	"textures":[
 		"a.2048/texture_00.png"
 	],
-	"motions":{
-		"null":[
-			{
-				"file":"motions/jaan.mtn"
-			},
-			{
-				"file":"motions/kime01.mtn"
-			},
-			{
-				"file":"motions/kime02.mtn"
-			}
-		],
 		"idle":[
 			{
 				"file":"motions/idle01.mtn"
 			}
 		]
 	},
-	"expressions":[
-		{"name":"f01.exp.json","file":"expressions/f01.exp.json"},
-		{"name":"f02.exp.json","file":"expressions/f02.exp.json"},
-		{"name":"f03.exp.json","file":"expressions/f03.exp.json"},
-		{"name":"f04.exp.json","file":"expressions/f04.exp.json"},
-		{"name":"f05.exp.json","file":"expressions/f05.exp.json"},
-		{"name":"f06.exp.json","file":"expressions/f06.exp.json"},
-		{"name":"f07.exp.json","file":"expressions/f07.exp.json"},
-		{"name":"angry01.exp.json","file":"expressions/angry01.exp.json"},
-		{"name":"cry01.exp.json","file":"expressions/cry01.exp.json"},
-		{"name":"default.exp.json","file":"expressions/default.exp.json"},
-		{"name":"f08.exp.json","file":"expressions/f08.exp.json"},
-	],
 	"physics":"kasumi_event030.physics.json",
 }
