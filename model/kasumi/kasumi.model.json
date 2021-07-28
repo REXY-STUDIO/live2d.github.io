@@ -5,8 +5,7 @@
 	"textures": [
 		"kasumi.1024/texture_00.png"
 	]
-	"motions":
-	{
+	"motions":{
 		"idle":[
 			{"file":"motions/idle01.mtn"}
 		],
