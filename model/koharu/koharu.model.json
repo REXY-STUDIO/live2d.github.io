@@ -6,18 +6,18 @@
 	],
 	"motions":{
 		"idle":[
-			{"file":"mtn/idle.mtn"}
+			{"file":"motions/idle.mtn"}
 		],
 		"":[
-			{"file":"mtn/06.mtn"},
-			{"file":"mtn/07.mtn"},
-			{"file":"mtn/08.mtn"},
-			{"file":"mtn/09.mtn"},
-			{"file":"mtn/01.mtn"},
-			{"file":"mtn/02.mtn"},
-			{"file":"mtn/03.mtn"},
-			{"file":"mtn/04.mtn"},
-			{"file":"mtn/05.mtn"}
+			{"file":"motions/06.mtn"},
+			{"file":"motions/07.mtn"},
+			{"file":"motions/08.mtn"},
+			{"file":"motions/09.mtn"},
+			{"file":"motions/01.mtn"},
+			{"file":"motions/02.mtn"},
+			{"file":"motions/03.mtn"},
+			{"file":"motions/04.mtn"},
+			{"file":"motions/05.mtn"}
 		]
 	},
 	"physics":"koharu.physics.json",
