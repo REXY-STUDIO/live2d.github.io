@@ -1,0 +1,9 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "kasumi_c",
+	"model": "kasumi.moc",
+	"textures": [
+		"texture_00.png"
+	]
+	"physics": "kasumi.physics.json",
+}
