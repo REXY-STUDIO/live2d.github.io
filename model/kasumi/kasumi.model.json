@@ -5,16 +5,5 @@
 	"textures": [
 		"kasumi.1024/texture_00.png"
 	]
-	"motions":{
-		"idle":[
-			{"file":"motions/idle01.mtn"}
-		],
-		"":[
-			{"file":"motions/nf01.mtn"},
-			{"file":"motions/hukumi01.mtn"},
-			{"file":"motions/sleep01.mtn"},
-			{"file":"motions/nf02.mtn"},
-		]
-	},
 	"physics":"kasumi.physics.json",
 }
